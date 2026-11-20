@@ -1,6 +1,6 @@
 ### Hi, I'm Sean
 
-I'm a growth and lifecycle marketer who is actively learning to write code. For 15 years I've worked on growth for DTC brands. Now I'm working on building the tools that make that work faster and more honest about what's actually working.
+I'm a growth and lifecycle marketer who is actively learning to write code. For 15 years I've worked in a marketing capacity for DTC brands. Now I'm working on building the tools that make that work faster and more honest about what's actually working.
 
 #### What I've done
 
