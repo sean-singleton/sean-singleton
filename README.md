@@ -1,10 +1,9 @@
 ### Hi, I'm Sean
 
-I'm a growth and lifecycle marketer who writes code. For 15 years I've run growth for subscription and DTC brands. Now I build the tools that make that work faster and more honest about what's actually working.
+I'm a growth and lifecycle marketer who is actively learning to write code. For 15 years I've worked on growth for DTC brands. Now I'm working on building the tools that make that work faster and more honest about what's actually working.
 
 #### What I've done
 
-- Built AI tools for campaign operations at Apple Services that raised the team's campaign intake capacity by 33%
 - Ran a $12M lifecycle program across 15 subscription brands at Golden Hippo (+11% LTV)
 - Built an experimentation program in Airtable that more than tripled monthly A/B tests (+14% campaign CVR)
 - Managed a $6M performance budget at American Apparel
