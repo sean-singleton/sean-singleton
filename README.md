@@ -14,7 +14,7 @@ I'm a growth and lifecycle marketer who is actively learning to write code. For 
 |---|---|---|
 | Marketing OS | An AI second brain for a marketing team: context, reusable skills, evals, and an attribution module that reconciles Meta and Google Ads against Shopify | In progress, public Feb 2027 |
 
-More repos land here through spring 2027: server-side tracking, programmatic SEO, and experimentation without layout shift.
+Coming in spring 2027: server-side tracking and AI landing pages.
 
 #### Tools I use
 
